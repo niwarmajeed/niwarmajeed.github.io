@@ -8,7 +8,7 @@ Visit my live website at: [https://niwar-majeed.github.io](https://niwarmajeed.g
 
 ## ⚠️ Important: GitHub Repository Name
 
-To deploy your website at your root domain (e.g., `https://niwar-majeed.github.io/`), you should rename your GitHub repository to **`niwar-majeed.github.io`**. 
+To deploy your website at your root domain (e.g., `https://niwarmajeed.github.io/`), you should rename your GitHub repository to **`https://niwarmajeed.github.io/`**. 
 
 If the repository name is different (like `portfolio`), the link will be `niwar-majeed.github.io/portfolio/`.
 
