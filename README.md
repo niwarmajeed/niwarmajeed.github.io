@@ -4,7 +4,7 @@ A modern, responsive CV/Portfolio website built with Flutter Web. This site show
 
 ## 🌐 Live Demo
 
-Visit my live website at: [https://niwar-majeed.github.io](https://niwar-majeed.github.io)
+Visit my live website at: [https://niwar-majeed.github.io](https://niwarmajeed.github.io)
 
 ## ⚠️ Important: GitHub Repository Name
 
