@@ -1,0 +1,9 @@
+# ڕێپێدان ب هەمی مەکینەیێن گەریانێ بۆ خویندنا مالپەری
+User-agent: *
+Allow: /
+
+# جهێ فایلێ Sitemap (ئەگەر تە لینکا خۆ یا تایبەت هەبیت، لێرە بگوهۆڕە)
+Sitemap: https://niwar-majeed.github.io/sitemap.xml
+
+# Crawl-delay (بۆ هندێ بارێ سێرڤەری گران نەبیت)
+Crawl-delay: 1
